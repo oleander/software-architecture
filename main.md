@@ -23,6 +23,12 @@
   - Funktion
   - Marknad
   - Vilken typ av mjukvara (websida, bl.a)
-  - Språk (Ruby, Erlang)
 
-- Vad som gör github intressant för SA
+## Languages
+
+Github is written in a variety of languages, the major being Ruby and Erlang.
+
+
+## Why Github
+
+Github in a software achitecture point of view is very interesting due to its modularity. The platform is devided into many diffrent moduals where most of them are open sourced. An open code base like Github has been adjusted to be reviewd by people other then the main developers. This means that it should be fairly easy to analyze the project for this course.

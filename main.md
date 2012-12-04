@@ -9,7 +9,7 @@
 ## GitHub in short
 
 - GitHub was founded in April, 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett. The headquartes are located in
-in San Francisco, California. 
+in San Francisco, California. The company employs 132 people, approximately half of whom work remotely.
 - Employees: 132
 - Approximately half of the GitHub team works remotely
 
@@ -20,7 +20,8 @@ GitHub is a web-based hosting service for software development projects that use
 GitHub Inc. was founded in 2008 and is based in San Francisco, California.
 
 In the Summer of 2012, GitHub Inc. raised $100 million, implying a total value of $750 million for the company. It is 
-currently the most used hosting service for open source projects.
+currently the most used hosting service for open source projects. There are approximately 4.5 million repositories on 
+the site, up from 1 million in July 2010. 
 
 ### Building blocks
 
